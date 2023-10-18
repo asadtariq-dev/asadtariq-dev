@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an Associate Software Engineer<br>🌱 I’m currently working in ROR and React JS<br>💬 Ask me about React Native, ROR and React JS
+🔭 I’m currently working as Software Engineer<br>🌱 I’m currently working in ROR, React JS and Vue JS<br>💬 Ask me about React Native, ROR, React JS and Vue JS.
 
 
 ## 🌐 Socials:
